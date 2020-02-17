@@ -1,0 +1,1 @@
+This is an attempt to follow through [Let's Make a Visual Novel](https://www.youtube.com/watch?v=nnxZVU0qe5I&list=PLGSox0FgA5B7mApF1vhbspLj5NpzKedU6&index=1) series.
